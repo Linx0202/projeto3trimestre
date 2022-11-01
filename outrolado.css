@@ -106,4 +106,17 @@ span{
     border: transparent;
     border-radius: 60px;
     font-family: 'Raleway', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    color: #ffffff;
+    background-color: darkolivegreen;
+    cursor: pointer;
+    outline: none;
+}
+
+.botaopreco button:hover{
+background-color: chocolate;
+
 }
