@@ -4,33 +4,40 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="catnic.css">
+    <link rel="stylesheet" href="index.css">
+<title>tudo o que você precisa saber sobre os gatos</title>
 
 </head>
 <body>
-    <h1>adote seu gato e a sua felicidade vem junto</h1>
+    <header class="cabecalho">
+        <img class="cabecalho-img" src="download.png" alt="logo-catnicoup">
+        <nav class="cabecalho-menu">
+        <nav>
+            <a class=”cabecalho-item”>contato</a>
+            <a class=”cabecalho-item”>dúvidas</a>
+            <a class=”cabecalho-item”>adote</a>
 
-    <img src="gatos123.webp" id="gato1">
-    <img src="funny.webp" id="gato2">
+        </nav>
+    </header>
 
- <form>
-
-<label for="nome">Nome Completo</label>
-<input type="text" id="nome" class="input-padrao">
-
-<label for="telefone">Telefone</label>
-<input type="text" id="Telefone" class="input-padrao">
-
-<label for="email">Email</label>
-<input type="text" id="email" class="input-padrao">
-
-<label for="endereço">endereço</label>
-<input type="text" id="endereço" class="input-padrao">
-
-<p><input type="submit" value="próximo"></p>
-
-</form>
-    
-</body>
-</html>
+<main class=”conteudos”>
+        <section class=”conteudo-principal”>
+            <div class=”conteudo-principal-escrito”>
+                   <h1 class=”conteudo-principal-escrito-titulo”>Cat-Nicoup</h1>
+                   <h2 class=”conteudo-principal-escrito-subtitulo”>Tudo o que você precisa saber sobre os gatos </h2>
+      
+                          <button class=”conteudo-botao”>Saiba Mais</button>
+            </div>
+                          <img class=”conteudo-principal-img” src="94b3d7ceb30bbc896617b309ce4ee418f514838b.jpeg">
+        </section>
+      
+    <section class=”conteudo-secundario”>
+          <h3 class=”conteudo-secundario-titulo”>Para Você</h3>
+      
+             <p class=”conteudo-secundario-paragrafo”>1.<strong>Porque</strong> os gatos se comportam assim?</p>
+             <p class=”conteudo-secundario-paragrafo”>2.<strong>O que pode estressar</strong> meu gato?</p>
+             <p class=”conteudo-secundario-paragrafo”>3.<strong>Pode dar banho em gatos</strong>?</p>
+      
+    </section>
+ </main>
+      
