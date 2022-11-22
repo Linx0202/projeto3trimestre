@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+!DOCTYPE html>
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
@@ -10,13 +10,11 @@
 </head>
 <body>
     <header class="cabecalho">
-        <img class="cabecalho-img" alt="TENHA SEU CAT-NICOUP">
         <nav class="cabecalho-menu">
-        <nav>
+
             <a class=”cabecalho-item”>contato</a>
             <a class=”cabecalho-item”>dúvidas</a>
             <a class=”cabecalho-item”>adote</a>
-
         </nav>
     </header>
 
@@ -28,7 +26,12 @@
       
                           <button class=”conteudo-botao”>Saiba Mais</button>
             </div>
-                          <img class=”conteudo-principal-img” src="kittens-cute-1100x733.jpg" alt="segundaimg">
+                          
+            <div>
+                
+                <img id=”gato” src="kittens-cute-1100x733.jpg" alt="segundaimg">
+
+            </div>
         </section>
       
     <section class=”conteudo-secundario”>
@@ -40,4 +43,5 @@
       
     </section>
  </main>
+      
       
