@@ -10,7 +10,7 @@
 </head>
 <body>
     <header class="cabecalho">
-        <img class="cabecalho-img" src="download.png" alt="logo-catnicoup">
+        <img class="cabecalho-img" alt="TENHA SEU CAT-NICOUP">
         <nav class="cabecalho-menu">
         <nav>
             <a class=”cabecalho-item”>contato</a>
@@ -28,15 +28,15 @@
       
                           <button class=”conteudo-botao”>Saiba Mais</button>
             </div>
-                          <img class=”conteudo-principal-img” src="94b3d7ceb30bbc896617b309ce4ee418f514838b.jpeg">
+                          <img class=”conteudo-principal-img” src="kittens-cute-1100x733.jpg" alt="segundaimg">
         </section>
       
     <section class=”conteudo-secundario”>
           <h3 class=”conteudo-secundario-titulo”>Para Você</h3>
       
-             <p class=”conteudo-secundario-paragrafo”>1.<strong>Porque</strong> os gatos se comportam assim?</p>
-             <p class=”conteudo-secundario-paragrafo”>2.<strong>O que pode estressar</strong> meu gato?</p>
-             <p class=”conteudo-secundario-paragrafo”>3.<strong>Pode dar banho em gatos</strong>?</p>
+             <p class=”conteudo-secundario-paragrafo”>1.<strong>Porque os gatos se comportam assim?</strong></p>
+             <p class=”conteudo-secundario-paragrafo”>2.<strong>O que pode estressar  meu gato?</strong></p>
+             <p class=”conteudo-secundario-paragrafo”>3.<strong>Pode dar banho em gatos?</strong></p>
       
     </section>
  </main>
