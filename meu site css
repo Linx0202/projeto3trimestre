@@ -67,10 +67,20 @@
    color: rgb(151, 80, 92);
    margin-left: 200px;
    
+   }
+  
+   .conteudobotao button {
+color: blue;
+border: none;
+background-color: goldenrod ;
+text-align: center;
+margin-right: 100px;
+
 
 
    }
-  
+
+
    #gato{
       width: 10%;
       height: 10%;
