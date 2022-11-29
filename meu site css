@@ -53,21 +53,27 @@
    color:cornsilk;
    }
 
-  .conteudo-botao{
-   background-color: black;
-   width:160px;
+  .conteudobotao{
+   background-color:goldenrod;
+   width: 170px;
    height:50px;
-   border:none;
-   border-radius:20px;
-   font-family: 'Times New Roman', Times, serif;
-   font-weight:400;
+   width: 176px;
+   margin: 0 20px 0 16px;
+   box-sizing: border-box;
+   border: transparent;
+   border-radius: 80px;
+   font: 60px;
    font-size: 40px;
-   color: darkgrey;
+   color: rgb(151, 80, 92);
+   margin-left: 200px;
+   
+
+
    }
   
    #gato{
-      width: 50%;
-      height: 50%;
+      width: 10%;
+      height: 10%;
       padding-left: 300px;
 
    }
