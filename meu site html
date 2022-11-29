@@ -1,10 +1,9 @@
-!DOCTYPE html>
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="meusite.css">
 <title>tudo o que você precisa saber sobre os gatos</title>
 
 </head>
@@ -24,12 +23,16 @@
                    <h1 class=”conteudo-principal-escrito-titulo”>Cat-Nicoup</h1>
                    <h2 class=”conteudo-principal-escrito-subtitulo”>Tudo o que você precisa saber sobre os gatos </h2>
       
-                          <button class=”conteudo-botao”>Saiba Mais</button>
-            </div>
                           
+            </div>
+
+                <div class="conteudobotao">
+                    <button type="button">Saiba mais</button>
+                </div>
+
             <div>
                 
-                <img id=”gato” src="kittens-cute-1100x733.jpg" alt="segundaimg">
+                <img id=”gato” src="gatocaramelo.jpeg" alt="segundaimg" height="500px" width="500px">
 
             </div>
         </section>
